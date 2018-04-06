@@ -13,7 +13,7 @@ Os adelanto el resultado: son productos que nos permite hacer aún más fácil e
 ![http://www.elecfreaks.com/estore/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/m/img_4316.jpg](http://www.elecfreaks.com/estore/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/m/img_4316.jpg)
 
 
-Su pineout es el siguiente
+Su pinout es el siguiente
 
 ![https://www.elecfreaks.com/wp-content/uploads/2018/01/2-2.jpg](https://www.elecfreaks.com/wp-content/uploads/2018/01/2-2.jpg)
 
@@ -28,6 +28,10 @@ Dado su formato nos permite [conectar fácilmente sensores de tipo  Octupus (3 p
 
 TB6612 2 motores DC de hasta 1.2A por canal y que se puede alimentar entre 6 y 12 voltios
 
+Este es su pinout
+
+![motor pinout](https://www.elecfreaks.com/wp-content/uploads/2017/12/121217_1035_ElecfreaksM1.png)
+
 
 ## [Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-without-micro-bit-board.html)
 
@@ -35,5 +39,10 @@ TB6612 2 motores DC de hasta 1.2A por canal y que se puede alimentar entre 6 y 1
 
 [Micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
 
+![adapter](http://www.elecfreaks.com/estore/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/m/img_3377.jpg)
+
+Los proyectos que aparecen en el librito del kit  [están disponibles online](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-without-micro-bit-board.html)
+
+## Review
 
 [Review]([Fundación microbit](http://microbit.org/es/))
