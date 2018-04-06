@@ -1,6 +1,12 @@
 # ElecfreaksReview
 
-BBC micro:bit
+Elecfreaks nos ha enviado 3 productos de entre la gran cantidad de [productos que tiene Elecfreaks para micro:bit](http://www.elecfreaks.com/estore/micro-bit) para que los probemos.
+
+Os adelanto el resultado: son productos que nos permite hacer aún más fácil el montar proyectos con Micro:bit
+
+## ¿Qué es micro:bit?
+
+[micro:bit es una placa totalmente opensource](https://www.microbit.co.uk/open_source) desarrollada por la [fundación BBC Micro:bit]([Fundación microbit](http://microbit.org/es/))
 
 ## [Micro:bit Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)
 
@@ -28,3 +34,6 @@ TB6612 2 motores DC de hasta 1.2A por canal y que se puede alimentar entre 6 y 1
 
 
 [Micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
+
+
+[Review]([Fundación microbit](http://microbit.org/es/))
