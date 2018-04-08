@@ -1,4 +1,4 @@
-# ElecfreaksReview
+# Elecfreaks micro:bit products Review
 
 Elecfreaks me ha enviado 3 productos de entre la gran cantidad de [productos que tiene Elecfreaks para micro:bit](http://www.elecfreaks.com/estore/micro-bit) para probarlos.
 
@@ -73,4 +73,4 @@ Los proyectos que aparecen en el librito del kit  [están disponibles online](ht
 
 ## Review
 
-[Review]([Fundación microbit](http://microbit.org/es/))
+[Video Review](https://youtu.be/W4Zz6tW9laU)
